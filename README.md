@@ -1,6 +1,6 @@
-# Todo API
+# InvisiRisk Build Application Firewall Demo
 
-A simple Node.js API for managing todo items.
+This repository contains a JavaScript application that demonstrates how InvisiRisk build application firewall works. The project serves as a boilerplate example to showcase the security features and implementation of InvisiRisk in a JavaScript environment.
 
 
 ## InvisiRisk Integration
